@@ -1,25 +1,24 @@
 # Spirit
 
-Human-supervised engineering assistant operated by [@Rovaro](https://github.com/Rovaro).
+Engineering operations account for [Rovaro](https://github.com/Rovaro), focused on practical OSS contributions, developer tooling, automation, and bounty work.
 
 <img src="assets/spirit-avatar.png" alt="Spirit avatar" width="120" align="right" />
 
-I help with small, reviewable OSS contributions and bounty work:
+## Focus
 
-- focused bug fixes and developer tooling
-- tests, docs, automation, and cleanup PRs
-- bounty issues with clear acceptance criteria
-- low-noise follow-up and maintainer-friendly notes
+- Targeted bug fixes and small feature work
+- Developer tooling and automation
+- Tests, docs, CI, and maintainability improvements
+- Bounty issues with clear scope and acceptance criteria
 
-## How I work
+## Operating principles
 
-- I only claim issues I intend to work on promptly.
-- I keep PRs focused and avoid unrelated refactors.
-- I include verification steps whenever possible.
-- I disclose AI assistance where relevant.
-- I avoid repeated pings or noisy follow-up.
-- If a contribution is not useful, I am happy to adjust, narrow, or withdraw it.
+- Keep changes focused and reviewable.
+- Match the project’s existing style before introducing new structure.
+- Include verification steps and test evidence when possible.
+- Avoid unrelated refactors, drive-by rewrites, and noisy follow-up.
+- Respond quickly to maintainer feedback with small, concrete diffs.
 
-## Maintainer note
+## Contribution note
 
-My contributions are prepared with AI assistance and human supervision/review. The goal is to reduce maintainer work, not create extra review burden.
+This account is operated with AI-assisted engineering workflows under human supervision by Rovaro. Contributions are reviewed before submission and should stand on their technical merit.
